@@ -160,10 +160,6 @@ Data produk menggunakan React state sehingga perubahan tidak tersimpan secara pe
 | Menghapus produk | Produk terhapus setelah konfirmasi | Sesuai |
 | Validasi form | Input tidak valid ditolak | Sesuai |
 
-### Screenshot Pengujian
-
-Tambahkan screenshot hasil pengujian React ke folder `tugas-3-react/screenshots/` agar dokumentasi dapat ditampilkan langsung di GitHub.
-
 ---
 
 ## 5. Pull Request dan Pengumpulan
